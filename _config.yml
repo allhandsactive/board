@@ -10,5 +10,6 @@ header_pages:
   - accomplishments.md
   - projects.md
   - future.md
+  - minutes.md
 
 permalink: pretty
