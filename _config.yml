@@ -5,3 +5,8 @@ description: Accomplishments, Projects, and Goals at All Hands Active
 author: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 theme: minima
+
+header_pages:
+  - accomplishments.md
+  - projects.md
+  - future.md
