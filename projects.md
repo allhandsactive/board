@@ -8,15 +8,15 @@ title: Current Projects
 (in order by last name)
 
 * Sarah Bruckler
-** Transition
+  * Transition
 * James Kruth
-** Transition
+  * Transition
 * Laria Reynolds
-** Transition
+  * Transition
 * Craig Williamson
-** Transition
+  * Transition
 * Mike Zandi
-** Transition
+  * Transition
 
 ## Officers
 
