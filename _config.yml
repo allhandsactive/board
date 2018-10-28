@@ -10,3 +10,5 @@ header_pages:
   - accomplishments.md
   - projects.md
   - future.md
+
+permalink: pretty
