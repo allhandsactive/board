@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: home
 title: Welcome!
+list_title: Meeting Minutes
 ---
 This is a simple site for members of All Hands Active to learn what the board of directors and officers are currently working on and what's planned to work on in the future. If you have an idea for a future project, please contact <board@allhandsactive.org>.
 
