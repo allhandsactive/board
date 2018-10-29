@@ -35,7 +35,7 @@ Jekyll requires Ruby, RubyGems, GCC, and Make. [See the Jekyll documentation for
 #### Setting up the Site
 
 1. [Clone this repository](https://help.github.com/articles/cloning-a-repository/)
-2. Change directory into your local repository
+2. Change directory into your local repository (```cd mydirectory```)
 
 You should now be able to run a test environment by typing ```jekyll serve``` in the command line and navigating to localhost:4000 in your browser.
 
