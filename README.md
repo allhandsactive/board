@@ -92,7 +92,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 The ```_drafts``` directory holds unpublished drafts of the meeting minutes, and contains a file called ```minutes-template.md``` that can be used to easly structure the meeting minutes that will be published to the website.
 
-To create a draft, create a newfile in ```_drafts``` titled something like ```draft-filename.md```. Copy and past all of the text in the ```minutes-template.md``` file into your new file, and add your notes from the meeting. You can preview your draft on your computer by running ```jekyll serve``` or `jekyll build \--drafts``` and navigating to localhost:4000/draft-filename.md.
+To create a draft, create a newfile in ```_drafts``` titled something like ```draft-filename.md```. Copy and past all of the text in the ```minutes-template.md``` file into your new file, and add your notes from the meeting. You can preview your draft on your computer by running ```jekyll serve``` or `jekyll build``` using the --drafts switch and navigating to localhost:4000/draft-filename.md.
 
 When you're ready to publish your draft, rename the file to ```YYYY-MM-DD-meeting-minutes.md```, and move the file to ```_posts```. You will need to [commit and push](#git-command-line-cheatsheet) the post to the remote repository to publish the minutes on the live website.
 
