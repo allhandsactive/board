@@ -6,7 +6,7 @@ This repository contains within it all the secret magicks of the All Hands Activ
 - A list of accomplished projects
 - An archive of board meeting minutes
 
-Each board member has access to add their projects, or projects suggested to them by members. This README acts as the board's grimoire - it can teach you everything you need to know about updating the board website.
+Each board member has access to add their projects, or projects suggested to them by members. This README acts as the board website's grimoire - it can teach you everything you need to know about updating the board website.
 
 ## Contents
 
@@ -33,7 +33,7 @@ The less preferred option is to [edit files in this repository](#using-github-pa
 
 #### Setting up the Site
 
-1. [Clone this repository](https://help.github.com/articles/cloning-a-repository/
+1. [Clone this repository](https://help.github.com/articles/cloning-a-repository/)
 2. Change directory into your local repository
 
 You should now be able to run a test environment by typing ```jekyll serve``` in the command line and navigating to localhost:4000 in your browser.
@@ -80,7 +80,6 @@ Syntax highlighted code block
    1. Ordered indented point
    - Unordered indented point
 2. List
-9. The number doesn't usually matter
 
 **Bold** and _Italic_ and `Code` text
 
@@ -93,7 +92,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 The ```_drafts``` directory holds unpublished drafts of the meeting minutes, and contains a file called ```minutes-template.md``` that can be used to easly structure the meeting minutes that will be published to the website.
 
-To create a draft, create a newfile in ```_drafts``` titled something like ```draft-filename.md```. Copy and past all of the text in the ```minutes-template.md``` file into your new file, and add your notes from the meeting. You can preview your draft on your computer by running ```jekyll serve``` or `jekyll build --drafts``` and navigating to localhost:4000/draft-filename.md.
+To create a draft, create a newfile in ```_drafts``` titled something like ```draft-filename.md```. Copy and past all of the text in the ```minutes-template.md``` file into your new file, and add your notes from the meeting. You can preview your draft on your computer by running ```jekyll serve``` or `jekyll build \--drafts``` and navigating to localhost:4000/draft-filename.md.
 
 When you're ready to publish your draft, rename the file to ```YYYY-MM-DD-meeting-minutes.md```, and move the file to ```_posts```. You will need to [commit and push](#git-command-line-cheatsheet) the post to the remote repository to publish the minutes on the live website.
 
