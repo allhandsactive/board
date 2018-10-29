@@ -29,7 +29,7 @@ The less preferred option is to [edit files in this repository](#using-github-pa
 
 1. [Install Git](https://help.github.com/articles/set-up-git/)
 2. [Install Jekyll](https://jekyllrb.com/docs/installation/)
-   - Jekyll requires Ruby, RubyGems, GCC, and Make. [See the Jekyll documentation for instructions on checking if you have these installed](https://jekyllrb.com/docs/installation/)
+  - Jekyll requires Ruby, RubyGems, GCC, and Make. [See the Jekyll documentation for instructions on checking if you have these installed](https://jekyllrb.com/docs/installation/)
 
 #### Setting up the Site
 
@@ -77,8 +77,8 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-   1. Ordered indented point
-   - Unordered indented point
+  1. Ordered indented point
+  - Unordered indented point
 2. List
 
 **Bold** and _Italic_ and `Code` text
