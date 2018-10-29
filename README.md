@@ -29,7 +29,8 @@ The less preferred option is to [edit files in this repository](#using-github-pa
 
 1. [Install Git](https://help.github.com/articles/set-up-git/)
 2. [Install Jekyll](https://jekyllrb.com/docs/installation/)
-  - Jekyll requires Ruby, RubyGems, GCC, and Make. [See the Jekyll documentation for instructions on checking if you have these installed](https://jekyllrb.com/docs/installation/)
+
+Jekyll requires Ruby, RubyGems, GCC, and Make. [See the Jekyll documentation for instructions on checking if you have these installed](https://jekyllrb.com/docs/installation/)
 
 #### Setting up the Site
 
