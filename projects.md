@@ -7,7 +7,7 @@ title: Current Projects
 
 (in order by last name)
 
-* Sarah Bruckler
+* Sarah Bruckler - Chair of Fundraising
   * Transition
   * Grant eligibility research
     * Maker Space safety regulation compliance
@@ -17,15 +17,15 @@ title: Current Projects
     * Need/Have list
     * Whereis map
   * Membership involvement survey
-* James Kruth
+* James Kruth - Secretary, Executive Director
   * Transition
-* Laria Reynolds
+* Laria Reynolds - Vice President, Shop Manager
   * Transition
-* Craig Williamson
+* Craig Williamson - President, Chair of Governance
   * Transition
-* Mike Zandi
+* Mike Zandi - Treasurer, Chair of Finance
   * Transition
 
 ## Officers
 
-* Operations - Nate Yost
+* Sysop - Nate Yost
