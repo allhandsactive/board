@@ -22,7 +22,7 @@ title: Current Projects
 ### James Kruth - Secretary, Executive Director
 
 * Coordinating Bylaw Review (required by the Bylaws)
-* Documenting Organizational Structure - http://wiki.allhandsactive.org/Organization_Structure
+* Documenting Organizational Structure - <http://wiki.allhandsactive.org/Organization_Structure>
 * Review the organizational calendar for events we need to do - elections, annual reports, etc... (add to this site?)
 * Create a virtual board "binder" - basically a collection of all the important government mandated documents we need to run AHA
 
