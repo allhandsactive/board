@@ -14,7 +14,7 @@ This is a transition meeting to the new board and thus doesn't follow standard m
 Goal: make necessary decisions and arrange for necessary skill/resource transfer to enable the incoming board to resume responsibilities from the outgoing board.
 By the end of the meeting the new board should be fully "in place".
 
-This is built in reference to the bylaws (found here: <https://docs.google.com/file/d/0B9x4RIcqwUojeUNjYnVYd0hoMUE/edit>) and "Organizational Structure" document (found here: ,http://wiki.allhandsactive.org/Organization_Structure>)
+This is built in reference to the bylaws (found here: <https://docs.google.com/file/d/0B9x4RIcqwUojeUNjYnVYd0hoMUE/edit>) and "Organizational Structure" document (found here: <http://wiki.allhandsactive.org/Organization_Structure>)
 
 Before the meeting we should print any documents that need to be signed, and ideally have access to bylaws & standing rules to verify we're doing things right.
 
