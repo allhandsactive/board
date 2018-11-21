@@ -2,4 +2,6 @@
 layout: page
 title: Accomplishments
 ---
-Nothing yet - we're just getting started! Check back!
+
+* Transition to October 2018 board
+* Documented organization structure: http://wiki.allhandsactive.org/Organization_Structure
