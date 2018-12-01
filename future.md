@@ -24,7 +24,7 @@ Got an idea for a new project for the space? If you can't do it yourself, send a
     * Safe distances are clearly marked in yellow and black tape around all breaker boxes
   * Tool safety standards:
     * Safe distances are clearly marked in yellow and black tape around all standing tools
-    * All standing tools have one copy of the user manual safely attached to the tool in a plastic bag
+    * All standing tools have one copy of the user manual safely attached to the tool in a plastic bag and clearly visible
     * A copy of the user manual for all power tools in the space is available and easy to find (in the library or a filing cabinet)
     * All tools requiring certification are clearly and visibly labeled as such
     * All power tools are currently in good working order with all safety guards and guides in place and well-maintained
@@ -40,7 +40,7 @@ Got an idea for a new project for the space? If you can't do it yourself, send a
     * Alcohol wipes for ear, eye, and mask sanitation are available, safely stored, and easily accessible
 * Determine what additional standards we are required to comply with
   * [OSHA General Industry Standards](https://www.osha.gov/laws-regs/regulations/standardnumber/1910),
-  * [MIOSHA General Industry Standards](https://www.michigan.gov/lara/0,4601,7-154-89334_11407_15368-39941--,00.html), and
+  * [MIOSHA General Industry Standards](https://www.michigan.gov/lara/0,4601,7-154-89334_11407_15368-39941--,00.html)
   * [OSHA Construction Safety and Health Standards](https://www.osha.gov/laws-regs/regulations/standardnumber/1926)
   * [MIOSHA Construction Safety and Health Standards](https://www.michigan.gov/lara/0,4601,7-154-89334_11407_15368-39938--,00.html)
   * [CDC Environmental Health & Safety Standards](https://www.cdc.gov/nceh/ehs/default.htm)
