@@ -44,4 +44,4 @@ Got an idea for a new project for the space? If you can't do it yourself, send a
   * [OSHA Construction Safety and Health Standards](https://www.osha.gov/laws-regs/regulations/standardnumber/1926)
   * [MIOSHA Construction Safety and Health Standards](https://www.michigan.gov/lara/0,4601,7-154-89334_11407_15368-39938--,00.html)
   * [CDC Environmental Health & Safety Standards](https://www.cdc.gov/nceh/ehs/default.htm)
-  
+  * Additional resources about [EHS standards for Makerspaces](https://us.anteagroup.com/en-us/blog/makerspace-safety-nutshell) and [3d printer safety](https://us.anteagroup.com/en-us/blog/ehs-impacts-3d-printing-360-degree-view) may help
