@@ -32,8 +32,6 @@ title: Current Projects
 
 ### Craig Williamson - President, Chair of Governance
 
-<craig@allhandsactive.org>
-
 * Unknown
 
 ### Mike Zandi - Treasurer, Chair of Finance
