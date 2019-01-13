@@ -7,9 +7,7 @@ title: Current Projects
 
 (in order by last name)
 
-### Sarah Bruckler - Chair of Fundraising *resigned*
-
-<sarah@allhandsactive.org>
+### Sarah Bruckler - Chair of Fundraising (resigned)
 
 * Grant eligibility research
   * Maker Space safety regulation compliance
@@ -22,8 +20,6 @@ title: Current Projects
 
 ### James Kruth - Secretary, Executive Director
 
-<james@allhandsactive.org>
-
 * Coordinating Bylaw Review (required by the Bylaws)
 * Create a master membership list
 * Review the organizational calendar for events we need to do - elections, annual reports, etc... (add to this site?)
@@ -31,8 +27,6 @@ title: Current Projects
 * Organize the membership and liability forms
 
 ### Laria Reynolds - Vice President, Shop Manager
-
-<laria@allhandsactive.org>
 
 * Unknown
 
@@ -44,8 +38,6 @@ title: Current Projects
 
 ### Mike Zandi - Treasurer, Chair of Finance
 
-<mike@allhandsactive.org>
-
 * Unknown
 
 ## Non-Board Officers
@@ -53,5 +45,3 @@ title: Current Projects
 Interested in taking on a bigger role at AHA? We'd love your help!
 
 ### Nate Yost - Sysop
-
-<sysop@allhandsactive.org>
