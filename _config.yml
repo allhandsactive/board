@@ -11,5 +11,6 @@ header_pages:
   - projects.md
   - future.md
   - minutes.md
+  - contact.md
 
 permalink: pretty
