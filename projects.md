@@ -7,17 +7,6 @@ title: Current Projects
 
 (in order by last name)
 
-### Sarah Bruckler - Chair of Fundraising (resigned)
-
-* Grant eligibility research
-  * Maker Space safety regulation compliance
-  * 501(c)(3) regulation compliance
-* Comprehensive inventory
-  * [SDS collection](https://www.osha.gov/Publications/OSHA3514.html)
-  * Need/Have list
-  * Whereis map
-* Membership involvement survey
-
 ### James Kruth - Secretary, Executive Director
 
 * Coordinating Bylaw Review (required by the Bylaws)
